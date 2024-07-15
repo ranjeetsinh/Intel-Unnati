@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Boyer Group, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Williams Inc, agrees to pay the Provider the amount of ('UGX', 'Ugandan shilling') 5191 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-02-26 and shall continue in effect until 2028-05-13 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Mann-Ellis.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 270 Kelsey Brook
+East William, CT 13586.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Alabama. Any disputes arising from this agreement shall be resolved in the courts located in Matthewfort, Montana.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Thomas Buck
+    Client: Mark Lee

@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Joseph Ltd, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Chase, Kennedy and Phillips, agrees to pay the Provider the amount of ('JEP', 'Jersey pound') 51063 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-07-11 and shall continue in effect until 2028-12-21 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Alvarez Ltd.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 193 Gibson Flats
+North Allison, WY 77731.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Indiana. Any disputes arising from this agreement shall be resolved in the courts located in Riddlefurt, Montana.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Alyssa Baker
+    Client: Cassandra Wood

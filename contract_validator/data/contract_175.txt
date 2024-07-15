@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Weaver, Martinez and Miranda, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, James LLC, agrees to pay the Provider the amount of ('EUR', 'Euro') 11744 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-05-21 and shall continue in effect until 2025-10-25 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Peterson LLC.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 444 Kelly Cliffs
+South Brian, WV 29058.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Utah. Any disputes arising from this agreement shall be resolved in the courts located in West Frankshire, Georgia.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: William Clark
+    Client: James Hill

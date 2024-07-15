@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Stokes-Taylor, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Parks-Richardson, agrees to pay the Provider the amount of ('SEK', 'Swedish krona') 69965 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-02-07 and shall continue in effect until 2029-02-07 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Nielsen LLC.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 5785 Todd Via Suite 737
+Taylormouth, WA 55388.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of West Virginia. Any disputes arising from this agreement shall be resolved in the courts located in Port David, Oregon.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Ryan Joseph
+    Client: Shawn Robinson

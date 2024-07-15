@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Lara PLC, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Mueller Ltd, agrees to pay the Provider the amount of ('HTG', 'Haitian gourde') 18290 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-04-17 and shall continue in effect until 2026-03-23 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Conner Ltd.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 51317 Donald Spur
+Kevinmouth, KY 13147.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Minnesota. Any disputes arising from this agreement shall be resolved in the courts located in New Melindaton, Maine.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Cassidy Kane
+    Client: Tracy Henderson

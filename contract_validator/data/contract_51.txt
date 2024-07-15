@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Robinson Ltd, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Daniel-White, agrees to pay the Provider the amount of ('MNT', 'Mongolian tugrik') 2515 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-07-12 and shall continue in effect until 2029-05-02 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Holland, Hancock and Guerra.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 930 Evans Gardens
+West Daniel, IL 29410.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of California. Any disputes arising from this agreement shall be resolved in the courts located in Carlosberg, Hawaii.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Mark Griffin
+    Client: Ronnie Brock

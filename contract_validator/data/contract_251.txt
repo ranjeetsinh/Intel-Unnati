@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Moran Inc, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Morse-Williams, agrees to pay the Provider the amount of ('MUR', 'Mauritian rupee') 42244 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-02-02 and shall continue in effect until 2029-05-20 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Howe-Jones.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to PSC 7347, Box 2058
+APO AP 61142.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of North Dakota. Any disputes arising from this agreement shall be resolved in the courts located in South Jessica, South Carolina.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Jamie Briggs
+    Client: Maria Ross

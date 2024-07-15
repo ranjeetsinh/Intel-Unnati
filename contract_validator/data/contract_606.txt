@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Butler PLC, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, House, Baird and Vincent, agrees to pay the Provider the amount of ('GBP', 'Pound sterling') 38766 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-03-26 and shall continue in effect until 2026-08-17 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Griffith-Butler.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 38001 Jones Crescent
+West Benjamin, NY 73640.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Alaska. Any disputes arising from this agreement shall be resolved in the courts located in Victorhaven, Nevada.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Brandon Ellis
+    Client: Reginald Gonzalez

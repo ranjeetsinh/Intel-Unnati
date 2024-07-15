@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'contracts',
     'rest_framework',
+    'channels',
     'django.contrib.messages',
     'django.contrib.staticfiles',
 ]
@@ -71,6 +72,22 @@ TEMPLATES = [
         },
     },
 ]
+
+
+ASGI_APPLICATION = 'contract_validator.asgi.application'
+CHANNEL_LAYERS = {
+    'default': {
+        'BACKEND': 'channels_redis.core.RedisChannelLayer',
+        'CONFIG': {
+            "hosts": [('127.0.0.1', 6379)],
+        },
+    },
+}
+
+CELERY_BROKER_URL = 'redis://localhost:6379/0'
+CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
+
+
 
 WSGI_APPLICATION = 'contract_validator.wsgi.application'
 

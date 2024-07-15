@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Warren PLC, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Higgins LLC, agrees to pay the Provider the amount of ('LAK', 'Lao kip') 51980 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-05-02 and shall continue in effect until 2028-03-06 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Daugherty, Berry and White.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 490 Robinson Pike Apt. 397
+West Chelsea, MS 50606.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Iowa. Any disputes arising from this agreement shall be resolved in the courts located in Kaiserfurt, Maryland.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Jon Alvarado
+    Client: Eric Russell

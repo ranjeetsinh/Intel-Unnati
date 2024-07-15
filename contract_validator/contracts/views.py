@@ -6,7 +6,18 @@ from .utils import extract_text_from_pdf, extract_ner_details, highlight_entitie
 import logging
 
 from django.shortcuts import render
+from .tasks import process_contract
 
+class ContractViewSet(viewsets.ModelViewSet):
+    queryset = Contract.objects.all()
+    serializer_class = ContractSerializer
+
+    def create(self, request, *args, **kwargs):
+        file = request.FILES['file']
+        contract = Contract.objects.create(file=file)
+        process_contract.delay(contract.id)
+        serializer = self.get_serializer(contract)
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
 def index(request):
     return render(request, 'contracts/index.html')
 

@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Ramos-Mclaughlin, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Boyer, Jones and Tran, agrees to pay the Provider the amount of ('BGN', 'Bulgarian lev') 50996 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-05-23 and shall continue in effect until 2029-03-26 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Price Inc.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 8717 Amy Crossroad
+Freyhaven, CA 25672.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Michigan. Any disputes arising from this agreement shall be resolved in the courts located in New John, Iowa.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: David Middleton
+    Client: Russell Austin

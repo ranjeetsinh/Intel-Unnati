@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Atkins-Harvey, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Morales-Williams, agrees to pay the Provider the amount of ('XDR', 'Special drawing rights') 87865 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-04-16 and shall continue in effect until 2029-05-21 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Greene, Evans and Craig.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 4323 Krause Viaduct Suite 370
+Matthewtown, RI 79044.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of South Dakota. Any disputes arising from this agreement shall be resolved in the courts located in New Jeffrey, South Dakota.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Troy Rice
+    Client: Matthew Martinez

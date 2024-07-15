@@ -1,0 +1,23 @@
+1. Services
+    The Provider, Berger PLC, agrees to perform the services described in Schedule A (the “Services”).
+
+    2. Payment
+    The Client, Joseph Inc, agrees to pay the Provider the amount of ('XOF', 'West African CFA franc') 9155 (the “Payment”).
+
+    3. Term of Agreement
+    This Agreement shall commence on 2024-07-02 and shall continue in effect until 2026-04-06 (the “Term”).
+
+    4. Confidentiality
+    The Provider agrees to hold in confidence and not to disclose to any third party any Confidential Information received from the Client, Myers-Anderson.
+
+    5. Termination
+    This Agreement may be terminated by either party upon thirty (30) days written notice to the other party. The notice must be sent to 512 Jones Path Apt. 068
+Ramirezmouth, ME 01007.
+
+    6. Governing Law
+    This Agreement shall be governed by and construed in accordance with the laws of the State of Mississippi. Any disputes arising from this agreement shall be resolved in the courts located in Port Renee, North Carolina.
+
+    7. Signature
+    IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+    Provider: Heather Weaver
+    Client: Nathan Robinson
