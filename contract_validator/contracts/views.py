@@ -5,6 +5,12 @@ from .serializers import ContractSerializer
 from .utils import extract_text_from_pdf, extract_ner_details, highlight_entities, summarize_text, text_classify
 import logging
 
+from django.shortcuts import render
+
+def index(request):
+    return render(request, 'contracts/index.html')
+
+
 class ContractViewSet(viewsets.ModelViewSet):
     queryset = Contract.objects.all()
     serializer_class = ContractSerializer
